@@ -1,4 +1,4 @@
-# 🚀Xsimple-menu_Daemon para X11
+# 🚀X simple-menu_Daemon para X11
 ![X-s menu](https://github.com/URSS13/Xs-menu-Daemon/blob/master/IMGs/Xsmenu.png)
 ## ✨Descripción
 
@@ -32,7 +32,8 @@ El proyecto incluye un script de instalación que se ejecuta con el interprete d
    python install.py
    ```
    El servicio se instalara en ~/.local/bin/, puede ver la combinacion de teclas para su uso con 
-   ```xsmenu -h ó --help
+   ```bash ó zsh
+   xsmenu -h ó --help
    ```
    Asegúrate de que tu configuracion de hotkeys no tenga conflictos con los atajos establecidos para Xsmenu.
    el servicio se iniciara automaticamente al iniciar sesión gracias al archivo xsmenu.desktop creado en
