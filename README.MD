@@ -8,7 +8,7 @@ Este script es un **Daemon para X11** que monitorea los cambios en el portapapel
 
 - **Monitoreo en tiempo real**: Captura automáticamente los cambios en el portapapeles.
 - **🌈 Historial de portapapeles**: Almacena un máximo de 10 fragmentos de texto.
-- **🎯 Interfaz de usuario intuitiva**: Despliega un menú accesible mediante '<Ctrl>+<Alt>+m' para seleccionar el texto a pegar.
+- **🎯 Interfaz de usuario intuitiva**: Despliega un menú accesible mediante Ctrl + Alt + m para seleccionar el texto a pegar.
 - **🔥 Ligero y eficiente**: Diseñado para consumir pocos recursos del sistema.
 
 ## 📦 Dependecias
