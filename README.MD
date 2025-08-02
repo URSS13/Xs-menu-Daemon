@@ -1,5 +1,5 @@
 # 🚀Xsimple-menu_Daemon para X11
-!(https://github.com/URSS13/Xs-menu-Daemon/blob/master/IMGs/Xsmenu.png)
+![X-s menu](https://github.com/URSS13/Xs-menu-Daemon/blob/master/IMGs/Xsmenu.png)
 ## ✨Descripción
 
 Este script es un **Daemon para X11** que monitorea los cambios en el portapapeles y los registra en un historial .pickle Permite al usuario acceder a fragmentos de texto previamente copiados desplegando un menú de opciones a seleccionar y pegar.
